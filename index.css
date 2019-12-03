@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Dosis&display=swap');
+body {
+    background: url("./image/ws_Red_lines_2560x1920.jpg");
+    font-family: 'Dosis', sans-serif;
+    background-size: cover;
+    
+}
+.col-md-4 {
+    margin-left:369px;
+}
+form{
+    background-image:linear-gradient(red,black) ;
+    text-align: center;
+    color: aqua;
+    margin-top: 30px;
+}
+input {
+    text-align: center;
+    border-radius: 3px;
+    border:none;
+}
+h5{
+    color: black;
+    background:beige;
+    border-radius:5px ;
+    width:140px;
+    margin-left: 81px;
+}
